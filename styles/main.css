@@ -43,7 +43,7 @@ display (como e vista pelo HTML), alinhamento, posicionamento
     height: 100vh;
 
     background: url('../assets/home-background.svg') no-repeat;
-    background-position: 35vw 110px;
+    background-position: 35vw 120px;
 }
 
 #page-home .content {
@@ -68,7 +68,9 @@ display (como e vista pelo HTML), alinhamento, posicionamento
     display: flex;
     color: var(--title-color);
     font-weight: 700;
+    font-size: 18px;
     text-decoration: none;
+    outline: none;
 }
 
 #page-home header a span {
@@ -96,6 +98,7 @@ display (como e vista pelo HTML), alinhamento, posicionamento
 
 #page-home main p {  
     font-size: 24px;
+    font-weight: 400;
     line-height: 38px;
     margin-top: 24px;
 }
@@ -113,6 +116,7 @@ display (como e vista pelo HTML), alinhamento, posicionamento
 
     font-size: 20px;
     background: var(--primary-color);
+    outline: none;
 
     transition: 400ms;
 }

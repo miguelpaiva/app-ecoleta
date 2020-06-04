@@ -13,6 +13,7 @@ display (como e vista pelo HTML), alinhamento, posicionamento
     --title-color: #322153;
     --primary-color: #34cb79;
     --primary-color-hover: #2fb86e;
+    --background-color-gray: #f0f0f5;
 }
 
 * {

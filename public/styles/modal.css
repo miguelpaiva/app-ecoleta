@@ -79,6 +79,7 @@
 
     background-color: var(--primary-color);
 
+    outline: none;
     cursor: pointer;
     transition: 400ms;
 }
